@@ -1,0 +1,41 @@
+#outline{border: 1px solid black;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 20px;}
+
+#head{text-align: center;
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100px;}
+
+.add{text-align: center;}
+
+#add{text-align: center;}
+
+
+#photo{border: 1px solid black;
+    height: 150px;
+    width: 120px;
+    float: right;
+    position: relative;
+    top: 70px;
+    right: 20px;}
+
+#B{font-family: 'Times New Roman', Times, serif;
+line-height: 40px;}
+
+#C{float: right;}
+
+#D{margin-left: 250px;}
+
+#E{ border-collapse: collapse;}
+
+line:hover{
+    background-color: aqua;
+}
+#line{
+    border: none;
+    border-bottom: 2px solid;
+
+}
+
